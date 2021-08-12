@@ -11,7 +11,7 @@ title: |
   Interdisciplinary Ecology
   University of Florida
 
-hero_media: assets/media/img/headers/portal-sunset.jpg
+hero_media: img/headers/portal-sunset.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'

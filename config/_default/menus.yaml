@@ -19,6 +19,6 @@ main:
   - name: Contact
     url: contact
     weight: 60
-  - name: eeeeee
-    url: contact
+  - name: home
+    url: about
     weight: 60

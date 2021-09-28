@@ -1,7 +1,10 @@
 # IDEs
-.idea/
+*.idea*/
 
 # Hugo
 /resources/
 public/
 assets/jsconfig.json
+
+#mac 
+*.DS_Store*

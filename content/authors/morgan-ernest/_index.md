@@ -6,12 +6,12 @@ title: S.K. Morgan Ernest
 superuser: true
 
 # Role/position
-role: Founder
+role: Founder, Associate Professor of Wildlife Ecology and Conservation
 
 # Organizations/Affiliations
 organizations:
 - name: University of Florida
-  url: ""
+  url: "https://www.weecology.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include  ......
@@ -21,17 +21,23 @@ interests:
 - Computational .....
 - Foreset ecology Retrieval
 
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include the dynamics of ecological systems and the integration of technology and field work
+
+interests:
+- Ecological Dynamics
+- Community Ecology
+- Technology + Field Work
+
 education:
   courses:
-  - course: PhD in ......
-    institution: S.....
-    year: 2012
-  - course: Msc in 
-    institution: M Technology
-    year: 2009
-  - course: BSc in A
-    institution: M Technology
-    year: 2008
+  - course: PhD in Biology
+    institution: University of New Mexico
+    year: 2001
+  - course: BSc in Biology
+    institution: University of Arizona
+    year: 1994
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +46,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:skmorgane@ufl.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/skmorgane
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=pHmra8cAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=uLElX8AAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/skmorgane
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

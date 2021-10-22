@@ -6,32 +6,29 @@ title: Ethan White
 superuser: true
 
 # Role/position
-role: Founder
+role: Founder, Associate Professor of Wildlife Ecology and Conservation
 
 # Organizations/Affiliations
 organizations:
 - name: University of Florida
-  url: ""
+  url: https://www.weecology.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include  ......
+bio: My research interests include the use of large datasets, machine learning, and remote sensing to understand and make forecasts for the dynamics of ecological systems at large scales
 
 interests:
-- Artificial .....
-- Computational .....
-- Foreset ecology Retrieval
+- Data Science
+- Community Ecology
+- Ecological Forecasting
 
 education:
   courses:
-  - course: PhD in ......
-    institution: S.....
-    year: 2012
-  - course: Msc in 
-    institution: M Technology
-    year: 2009
-  - course: BSc in A
-    institution: M Technology
-    year: 2008
+  - course: PhD in Biology
+    institution: University of New Mexico
+    year: 2004
+  - course: BA in Biology
+    institution: Colorado College
+    year: 1998
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +37,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:ethanwhite@ufl.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ethanwhite
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=pHmra8cAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=pHmra8cAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ethanwhite
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,3 +66,5 @@ user_groups:
 ---
 
 Ethan's studies data-intensive problems in ecology including ecological forecasting and using high resolution remote sensing to understand individual level patterns in ecological systems at large scales. He is actively involved in computational training efforts as a Data Carpentry founder, The Carpentries Executive Committee member, and lead developer of the semester long Data Carpentry course.
+
+Ethan's research interests include the use of large datasets, machine learning, and remote sensing to understand and make forecasts for the dynamics of ecological systems at large scales.

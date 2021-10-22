@@ -1,31 +1,68 @@
-+++
-# Date this page was created.
-date = "2016-04-25"
+---
+# Display name
+title: Glenda M. Yenni
 
-# Project title.
-title = "Glenda Yenni"
+# Is this the primary user of the site?
+superuser: true
 
-# Project summary to display on homepage.
-summary = "Project Manager"
+# Role/position
+role: Research Scientist, Project Manager
 
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "glenda-yenni.jpg"
+# Organizations/Affiliations
+organizations:
+- name: University of Florida
+  url: https://www.weecology.org
 
-# Tags: can be used for filtering projects.
-# Example: `tags = ["ernest-lab", "white-lab"]`
-tags = ["ernest-lab", "white-lab"]
+# Short bio (displayed in user profile at end of posts)
+bio: 
 
-# Optional external URL for project (replaces project detail page).
-external_link = ""
+interests:
+- Ecological Dynamics
+- Mammalogy
+- Project Management
 
-# Does the project detail page use math formatting?
-math = false
+education:
+  courses:
+  - course: PhD in Biology
+    institution: Utah State University
+    year: 2013
+  - course: BSc in Biology
+    institution: Somewhere awesome
+    year: 20XX
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:glenda@weecology.org'
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/skmorgane
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=DUQgBw4AAAAJ&hl=en
+- icon: github
+  icon_pack: fab
+  link: https://github.com/gmyenni
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
-+++
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Ernest-lab
+---
 
 Glenda manages our large collaborative projects.

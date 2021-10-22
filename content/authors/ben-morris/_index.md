@@ -1,33 +1,31 @@
 ---
 # Display name
-title: Ellen Bledsoe
+title: Ben Morris
 
 # Role/position
-role: PhD Student
+role: Undergrad software developer
 
 # Organizations/Affiliations
 organizations:
-- name: University of Florida
-  url: https://www.ufl.edu
+- name: Utah State University
+  url: https://www.usu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently University of Arizona, UASNRE as an Asst. Prof of Practice teaching data science
+bio: Currently, Senior Software Engineer at Netflix. Former Weecology Undergrad Software developer
 
 # Project summary to display on homepage.
 # summary : "Currently: Software Development Engineer, Amazon Lab126. Former Undergrad Software Developer ......."
 
 
-interests:
-- Community Ecology
-- Data Science
-- Small Mammals
-- Research topics, Living Data Project; Long-term, spatiotemporal dynamics of ecological communities
+# interests:
+# - Artificial .....
+# - Computational .....
 
 education:
   courses:
-  - course: PhD Student
-    institution: University of Florida
-    year: 2020
+  - course: B.S. Computational Biology
+    institution: Utah State University
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -35,24 +33,21 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:test@example.org'
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/in/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/bendmorris
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:test@example.org'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PJbyndUAAAAJ&hl=en
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?user=pHmra8cAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/bleds22e
+  link: https://github.com/bendmorris
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -72,4 +67,4 @@ user_groups:
 - Alumni
 ---
 
-Ellen works on core-transient dynamics and the dynamics of ecological communities.
+Ben was an undergraduate researcher and software developer in the lab from 2010 to 2012. During this time he was the lead developer on the EcoData Retriever and conducted independent research on the macroecology of disease. He attended graduate school at the University of North Carolina, was awarded a National Science Foundation Graduate Research Fellowship, and is currently a Senior Software Engineer at Netflix.

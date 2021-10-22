@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Ellen Bledsoe
+title: Lindsey Garner
 
 # Role/position
-role: PhD Student
+role: Manager Everglades Research
 
 # Organizations/Affiliations
 organizations:
@@ -11,7 +11,7 @@ organizations:
   url: https://www.ufl.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently University of Arizona, UASNRE as an Asst. Prof of Practice teaching data science
+bio: Manages the day-to-day fieldwork and trains seasonal research crew members
 
 # Project summary to display on homepage.
 # summary : "Currently: Software Development Engineer, Amazon Lab126. Former Undergrad Software Developer ......."
@@ -21,13 +21,12 @@ interests:
 - Community Ecology
 - Data Science
 - Small Mammals
-- Research topics, Living Data Project; Long-term, spatiotemporal dynamics of ecological communities
 
-education:
-  courses:
-  - course: PhD Student
-    institution: University of Florida
-    year: 2020
+# education:
+#   courses:
+#   - course: MS in Biology
+#     institution: North Carolina State University
+#     year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Ernest-lab
 ---
 
-Ellen works on core-transient dynamics and the dynamics of ecological communities.
+Lindsey manages and coordinates the Everglades research project.

@@ -1,34 +1,28 @@
 ---
 # Display name
-title: Glenda M. Yenni
-
-# Is this the primary user of the site?
-superuser: true
+title: Kari Norman
 
 # Role/position
-role: Research Scientist, Project Manager
+role: Undergraduate researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of Florida
-  url: https://www.weecology.org
+- name: Utah State University
+  url: https://www.usu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Currently, PhD student, UC Berkeley. Former Weecology Undergraduate researcher
 
-interests:
-- Ecological Dynamics
-- Mammalogy
-- Project Management
+# interests:
+# - Ecological Dynamics
+# - Mammalogy
+# - Project Management
 
 education:
   courses:
-  - course: PhD in Biology
+  - course: BS Conservation and Restoration Ecology, BS Statistics
     institution: Utah State University
-    year: 2013
-  - course: BSc in Biology
-    institution: Somewhere awesome
-    year: 20XX
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -37,16 +31,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:glenda@weecology.org'
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/skmorgane
+  link: 'mailto:kari.norman@berkeley.edu'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/norman_kari
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=DUQgBw4AAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=UUUyNRIAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gmyenni
+  link: https://github.com/karinorman
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,8 +56,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Ernest-lab
-- White-lab
+- Alumni
 ---
 
-Glenda manages our large collaborative projects.
+Kari joined the lab in Fall 2014 as an undergraduate research fellow pursuing degrees in Conservation and Restoration Ecology and Statistics. Her research looked at the sensitivity of conservation prioritizations to data type, specifically for bird species in North America. She is currently a graduate student at the University of California Berkeley.

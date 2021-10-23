@@ -1,31 +1,67 @@
-+++
-# Date this page was created.
-date = "2016-04-22"
+---
+# Display name
+title: Pat Dumandan
 
-# Project title.
-title = "Pat Dumandan"
+# Role/position
+role: PhD Student
 
-# Project summary to display on homepage.
-summary = "PhD Student"
+# Organizations/Affiliations
+organizations:
+- name: University of Florida
+  url: https://www.weecology.org
 
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "pat-dumandan.jpg"
+# Short bio (displayed in user profile at end of posts)
+bio: University of Florida, Weecology PhD Student
 
-# Tags: can be used for filtering projects.
-# Example: `tags = ["ernest-lab", "white-lab"]`
-tags = ["ernest-lab"]
+interests:
+- Ecological Forecasting
+- Dynamic Systems
 
-# Optional external URL for project (replaces project detail page).
-external_link = ""
+education:
+  courses:
+  - course: PhD in Interdisciplinary Ecology
+    institution: University of California San Diego
+    year: 20XX
+  - course: Master of Science in Raptor Biology
+    institution: Boise State University
+    year: 20XX
+  - course: BSc in biology, with a major in ecology
+    institution: University of the Philippines Mindanao
+    year: 2014
 
-# Does the project detail page use math formatting?
-math = false
+# # Social/Academic Networking
+# # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+# #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:hao.ye@weecology.org'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/patdumandan
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=O1C1Z0QAAAAJ&hl=en
+- icon: github
+  icon_pack: fab
+  link: https://github.com/patdumandan
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
 
-+++
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Ernest-lab
+---
 
 Pat is interested in employing trait-based approaches to understand and predict patterns in ecological systems.

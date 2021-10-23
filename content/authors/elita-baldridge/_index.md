@@ -3,7 +3,7 @@
 title: Elita Baldridge
 
 # Role/position
-role: PhD
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:

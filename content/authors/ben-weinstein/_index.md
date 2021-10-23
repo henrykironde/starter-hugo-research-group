@@ -14,7 +14,7 @@ organizations:
 bio: Quantitative ecologist studying species co-occurrence and machine learning for ecological image analysis
 
 interests:
-- Deep Learning & Computer Vision
+- Deep Learning and Computer Vision
 - Community Ecology
 - Biogeography
 
@@ -62,8 +62,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- white-lab
+- White-lab
 ---
 
 Ben works on converting remote sensing data into ecological information and integrating this information into large scale models. Quantitative ecologist studying
 species co-occurrence and machine learning for ecological image analysis
+

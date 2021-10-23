@@ -1,6 +1,6 @@
 ---
 # Display name
-title: S.K. Morgan Ernest
+title:  "  S.K. Morgan Ernest"
 
 # Is this the primary user of the site?
 superuser: true
@@ -72,6 +72,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Principal Investigators
+- Ernest-lab
 ---
 
 Morgan's group studies how natural systems change through time, both historically and in the future. She runs the Portal Project long-term ecological research site.

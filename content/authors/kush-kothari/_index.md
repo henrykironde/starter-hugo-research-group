@@ -1,35 +1,72 @@
-+++
-# Date this page was created.
-date = "2016-04-21"
+---
+# Display name
+title: Kush Kothari
 
-# Project title.
-title = "Kush Kothari"
+# Role/position
+role: Google Summer of Code intern
+
+# Organizations/Affiliations
+organizations:
+- name: Veermata Jijabai Technological Institute (VJTI), Mumbai
+  url: https://vjti.ac.in
+
+# Short bio (displayed in user profile at end of posts)
+bio: Undergrad student at VJTI.
 
 # Project summary to display on homepage.
-summary = "Undergrad Software Developer"
+# summary : "Currently: Software Development Engineer, Amazon Lab126. Former Undergrad Software Developer ......."
 
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "kush-kothari.jpg"
 
-# Tags: can be used for filtering projects.
-# Example: `tags = ["ernest-lab", "white-lab"]`
-tags = ["white-lab"]
+# interests:
+# - Artificial .....
+# - Computational .....
 
-# Optional external URL for project (replaces project detail page).
-external_link = ""
+education:
+  courses:
+  - course: Bsc in Computer Engineering
+    institution: Veermata Jijabai Technological Institute (VJTI), Mumbai
+    year: 2023
 
-# Does the project detail page use math formatting?
-math = false
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
+social:
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/kush-kothari-ba013218b
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:test@example.org'
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?user=pHmra8cAAAAJ&hl=en
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
 
-+++
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
-Kush is an Undergraduate Student in Computer Engineering at Veermata Jijabai Institute of Technology, Mumbai. He has been selected in Google Summer of Code 2021 to work on the project [Adding Spatial Dataset Support for retrieverdash](https://summerofcode.withgoogle.com/projects/#5058242943647744). The goal of this project is the implementation of a download and install pipeline for tables having spatial data in the form of vector images/data.
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
 
-[Kush's LinkedIn page](https://www.linkedin.com/in/kush-kothari-ba013218b/)
+# Highlight the author in author lists? (true/false)
+highlight_name: false
 
-[Kush's Github page](https://github.com/kkothari2001)
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Alumni
+---
+
+Kush is an Undergraduate Student in Computer Engineering at Veermata Jijabai Institute of Technology, Mumbai.
+He has been selected in Google Summer of Code 2021 to work on the project "Adding Spatial Dataset Support for retrieverdash".
+The goal of this project is the implementation of a download and install pipeline for tables having spatial data in the form of vector images/data.

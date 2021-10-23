@@ -1,31 +1,63 @@
-+++
-# Date this page was created.
-date = "2016-04-22"
+---
+# Display name
+title: Cruz-Hernández, Virnaliz
 
-# Project title.
-title = "Virnaliz Cruz"
+# Role/position
+role: PhD Student
 
-# Project summary to display on homepage.
-summary = "PhD Student"
+# Organizations/Affiliations
+organizations:
+- name: University of Florida
+  url: https://www.weecology.org
 
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "virnaliz-cruz.jpg"
+# Short bio (displayed in user profile at end of posts)
+bio: Interdisciplinary ecology PhD researcher
 
-# Tags: can be used for filtering projects.
-# Example: `tags = ["ernest-lab", "white-lab"]`
-tags = ["white-lab"]
+interests:
+- disease ecology
+- data science
+- computational ecology
+- Interdisciplinary ecology
 
-# Optional external URL for project (replaces project detail page).
-external_link = ""
+education:
+  courses:
+  - course: Ph.D student in Interdisciplinary Ecology
+    institution: University of Florida
+    year: 202X
 
-# Does the project detail page use math formatting?
-math = false
+# # Social/Academic Networking
+# # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+# #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:hao.ye@weecology.org'
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/Hao_and_Y
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=f7SLhCQAAAAJ&hl
+- icon: github
+  icon_pack: fab
+  link: https://github.com/garezana
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
 
-+++
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- White-lab
+---
 
 Virnaliz is interested in the intersection of disease ecology and data science.

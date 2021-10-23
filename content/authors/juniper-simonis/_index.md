@@ -62,7 +62,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- White-lab
+- Ernest-lab
 ---
 
 Juniper is a quantitative ecologist who joined the lab as a Data Analyst in Fall 2017. After receiving their PhD in Ecology and Evolutionary Biology from Cornell University in 2013, Juniper worked in non-profit and consulting sectors, including founding their own statistical consulting company, DAPPER Stats. Juniper’s interests are in time-series modeling, species conservation, and spatial population dynamics, and they conduct data management, analysis, and modeling for a number of projects in the lab.

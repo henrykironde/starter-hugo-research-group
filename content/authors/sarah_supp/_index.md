@@ -1,33 +1,67 @@
-+++
-# Date this page was created.
-date = "2016-04-27"
+---
+# Display name
+title: Sarah Supp
 
-# Project title.
-title = "Sarah Supp"
+# Role/position
+role: PhD Student
 
-# Project summary to display on homepage.
-summary = "Currently: Assistant Professor, Denison University. Former Weecology Phd student"
+# Organizations/Affiliations
+organizations:
+- name: Utah State University
+  url: https://www.usu.edu
 
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "alumni/sarah_supp.jpeg"
+# Short bio (displayed in user profile at end of posts)
+bio: Currently Assistant Professor, Denison University. Former Weecology Phd student
 
-# Tags: can be used for filtering projects.
-# Example: `tags = ["ernest-lab", "white-lab"]`
-tags = ["alumni"]
+# interests:
+# - Time Series Analysis
+# - Stability and Resilience
+# - Ecological Forecasting
+# - Dynamic Systems
+# - Causal Inference
 
-# Optional external URL for project (replaces project detail page).
-external_link = ""
+education:
+  courses:
+  - course: Ph.D. in Ecology
+    institution: Utah State University
+    year: 2013
+  - course: B.S. Biology, magna cum laude, minors in Chemistry and Spanish
+    institution: Valparaiso University
+    year: 2007
 
-# Does the project detail page use math formatting?
-math = false
+# # Social/Academic Networking
+# # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+# #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:sarah@weecology.org'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/srsupp
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=RQLIORYAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/sarahsupp
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
 
-+++
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Alumni
+---
 
 Sarah was a PhD student in the Ernest Lab starting in 2007. Sarah studied metacommunity dynamics and macroecological patterns and discovered that rodents really aren't that bad. After postdocs in Catherine Graham's lab and as an NSF Postdoctoral Fellow, she joined Dennison University as an assistant professor.
-
-[Sarah's Website](https://sarahsupp.org/)

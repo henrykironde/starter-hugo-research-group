@@ -3,7 +3,7 @@
 title: Zack Brym
 
 # Role/position
-role: PhD Student
+role: Currently, **Assistant Professor Agroecology, University of Florida**. Former Weecology PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -11,7 +11,7 @@ organizations:
   url: https://www.usu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently, Reproducibility Librarian, University of Florida. Former Weecology Postdoc
+bio: Currently, **Assistant Professor Agroecology, University of Florida**. Former Weecology PhD Student
 
 interests:
 - crop physiology
@@ -30,11 +30,10 @@ education:
     institution: University of Michigan
     year: 2008
 
-# # Social/Academic Networking
-# # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-# #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-# #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: home
+  icon_pack: fas
+  link: 'https://trec.ifas.ufl.edu/faculty/brym/'
 - icon: envelope
   icon_pack: fas
   link: 'mailto:brymz@ufl.edu'
@@ -47,11 +46,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/brymz
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

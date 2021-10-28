@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Mikaelle Giffen
+title: Mikaelle Giffin
 
 # Role/position
-role: Undergrad researcher
+role: Currently **Associate Toxicologist, Medical Device Consultant at Nelson Labs**. Former Weecology Undergrad researcher
 
 # Organizations/Affiliations
 organizations:
@@ -11,49 +11,24 @@ organizations:
   url: https://www.usu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently Data Science Intern, Recursion. Former Weecology Undergrad researcher
+bio: Currently Associate Toxicologist, Medical Device Consultant at Nelson Labs. Former Weecology Undergrad researcher
 
-# Project summary to display on homepage.
-# summary : "Currently: Software Development Engineer, Amazon Lab126. Former Undergrad Software Developer ......."
+education:
+  courses:
+  - course: Bs. in Biology Cellular/Molecular
+    institution: University of Utah
+    year: 2010
+  - course: BS in computer science
+    institution: Weber State University
+    year: 2018
+  - course: Master of Science in Biotechnology
+    institution: University of Utah
+    year: 2020
 
-
-# interests:
-# - Artificial .....
-# - Computational .....
-
-# education:
-#   courses:
-#   - course: Bachelor of Computer Science Engineering
-#     institution: University of Florida
-#     year: 2019
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-
-# social:
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/in/clayton-bingham-89868432
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:test@example.org'
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com/citations?user=pHmra8cAAAAJ&hl=en
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/gcushen
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+social:
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/miki-giffin-54906019
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

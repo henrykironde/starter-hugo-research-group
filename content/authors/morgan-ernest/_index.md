@@ -14,14 +14,6 @@ organizations:
   url: "https://www.weecology.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include  ......
-
-interests:
-- Artificial .....
-- Computational .....
-- Foreset ecology Retrieval
-
-# Short bio (displayed in user profile at end of posts)
 bio: My research interests include the dynamics of ecological systems and the integration of technology and field work
 
 interests:
@@ -38,12 +30,10 @@ education:
     institution: University of Arizona
     year: 1994
 
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: home
+  icon_pack: fas
+  link: 'https://www.weecology.org/people/morgan-ernest/'
 - icon: envelope
   icon_pack: fas
   link: 'mailto:skmorgane@ufl.edu'

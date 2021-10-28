@@ -30,11 +30,10 @@ education:
     institution: University of Illinois, Urbana-Champaign
     year: 2006
 
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: home
+  icon_pack: fas
+  link: 'https://www.dapperstats.com/software/'
 - icon: envelope
   icon_pack: fas
   link: 'mailto:simonis@dapperstats.com'
@@ -47,11 +46,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/juniperlsimonis
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -66,6 +60,6 @@ user_groups:
 - Ernest-lab
 ---
 
-Juniper is a quantitative ecologist who joined the lab as a Data Analyst in Fall 2017. After receiving their PhD in Ecology and Evolutionary Biology from Cornell University in 2013, Juniper worked in non-profit and consulting sectors, including founding their own statistical consulting company, DAPPER Stats. Juniper’s interests are in time-series modeling, species conservation, and spatial population dynamics, and they conduct data management, analysis, and modeling for a number of projects in the lab.
-
-[Juniper's website](https://www.dapperstats.com/about/)
+Juniper is a quantitative ecologist who joined the lab as a Data Analyst in Fall 2017.
+After receiving their PhD in Ecology and Evolutionary Biology from Cornell University in 2013, Juniper worked in non-profit and consulting sectors, including founding their own statistical consulting company, DAPPER Stats.
+Juniper’s interests are in time-series modeling, species conservation, and spatial population dynamics, and they conduct data management, analysis, and modeling for a number of projects in the lab.

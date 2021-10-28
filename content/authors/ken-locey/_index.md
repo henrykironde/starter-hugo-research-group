@@ -3,7 +3,7 @@
 title: Ken Locey
 
 # Role/position
-role: PhD Student
+role: Currently, **Senior Clinical Data Scientist, Rush University Medical Center**. Former Weecology PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -11,7 +11,7 @@ organizations:
   url: https://www.usu.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently, Data Science Analyst, Rush University Medical Center. Former Weecology PhD student
+bio: Currently, **Senior Clinical Data Scientist, Rush University Medical Center**. Former Weecology PhD student
 
 # interests:
 # - Time Series Analysis
@@ -28,32 +28,13 @@ education:
   #   institution: McGill University
   #   year: 2008
 
-# # Social/Academic Networking
-# # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-# #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-# #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-
 social:
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:@weecology.org'
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=z8bzT_MAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/klocey
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -67,4 +48,4 @@ user_groups:
 - Alumni
 ---
 
-Ken completed his PhD in 2013. While in the lab he was awarded Utah State University's three most prestigious graduate fellowships. After a postdoc at the University of Indiana, serving as a co-PI on an National Science Foundation Dimensions of Biodiversity grant, he has recently joined Dine College as an assistant professor.
+Ken completed his PhD in 2013. While in the lab he was awarded Utah State University’s three most prestigious graduate fellowships. After a postdoc at the University of Indiana, serving as a co-PI on a National Science Foundation Dimensions of Biodiversity grant, he joined Diné College of the Navajo Nation and was promoted to associate professor. Ken is now a senior clinical data scientist at Rush University Medical Center, Chicago. There, he focuses on predicting patient outcomes, the spread of contagious disease, and to improving quality, safety, and value within healthcare systems.

@@ -3,7 +3,7 @@
 title: Shivam Negi
 
 # Role/position
-role: Google Summer of Code intern
+role: Currently, **MS Security Informatics @ Johns Hopkins University | Ex Samsung** R&D. Former Weecology Undergrad
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
 bio: Currently, MS Security Informatics @ Johns Hopkins University | Ex Samsung R&D. Former Weecology Undergrad Software Developer
 
 # Project summary to display on homepage.
-# summary : "Currently: Software Development Engineer, Amazon Lab126. Former Undergrad Software Developer ......."
+# summary : "Currently, MS Security Informatics @ Johns Hopkins University | Ex Samsung R&D. Former Weecology Undergrad"
 
 
 # interests:

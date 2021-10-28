@@ -3,7 +3,7 @@
 title: Hao Ye
 
 # Role/position
-role: Postdoc
+role: Currently, **Reproducibility Librarian, University of Florida**. Former Weecology Postdoc
 
 # Organizations/Affiliations
 organizations:
@@ -12,7 +12,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: Currently, Reproducibility Librarian, University of Florida. Former Weecology Postdoc
-
 
 interests:
 - Time Series Analysis
